@@ -1,0 +1,53 @@
+{
+	"LRF": [{
+			"name": "AP",
+			"coef": 0.5724,
+			"scale": 50.9404,
+			"mean": 413.426
+		},
+		{
+			"name": "BAT",
+			"coef": 0.3789,
+			"scale": 23.072,
+			"mean": 319.2972
+		},
+		{
+			"name": "CHG",
+			"coef": 0.1234,
+			"scale": 37.3722,
+			"mean": 388.6288
+		},
+		{
+			"name": "Y",
+			"scale": 3.0926,
+			"mean": 36.5218,
+			"intercept": -0.0
+		}
+	],
+	"LRB": [{
+			"name": "AP",
+			"coef": 0.6034,
+			"scale": 45.3592,
+			"mean": 402.5333
+		},
+		{
+			"name": "BAT",
+			"coef": 0.3318,
+			"scale": 21.2687,
+			"mean": 316.7382
+		},
+		{
+			"name": "CHG",
+			"coef": 0.1735,
+			"scale": 41.2694,
+			"mean": 387.0204
+		},
+		{
+			"name": "Y",
+			"scale": 2.8132,
+			"mean": 37.3776,
+			"intercept": 0.0
+		}
+	]
+
+}
