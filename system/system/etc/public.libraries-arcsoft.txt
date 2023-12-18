@@ -1,0 +1,4 @@
+libArcSoftFaceAlignment.arcsoft.so
+libArcSoft3DStickerEngine.arcsoft.so
+libface_landmark.arcsoft.so
+libhigh_dynamic_range.arcsoft.so
