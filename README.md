@@ -1,0 +1,14 @@
+# a20psq-user 11 RP1A.200720.012 A205USQUECWI1 release-keys
+- manufacturer: samsung
+- platform: universal7904
+- codename: a20p
+- flavor: a20psq-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A205USQUECWI1
+- tags: release-keys
+- fingerprint: samsung/a20psq/a20p:11/RP1A.200720.012/A205USQUECWI1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a20psq-user-11-RP1A.200720.012-A205USQUECWI1-release-keys
+- repo: samsung_a20p_dump
