@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A205U_OYN_VMU_RR_0002</version>
+  <model>
+    <name>SM-A205U</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0001</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>15</carrierCount>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>01</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>01</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>010</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>001</mcc>
+      <mnc>010</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>310</mcc>
+      <mnc>028</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>310</mcc>
+      <mnc>028</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>310</mcc>
+      <mnc>332</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>310</mcc>
+      <mnc>332</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>328</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>328</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>390</mnc>
+      <networkName>VMU Test</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>390</mnc>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>490</mnc>
+      <codeType>HEX</codeType>
+      <gid>000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</gid>
+      <networkName>VMUCDMA</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>490</mnc>
+      <codeType>HEX</codeType>
+      <gid>000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</gid>
+      <networkName>VMU Roaming</networkName>
+    </carrier>
+    <carrier>
+      <mcc>311</mcc>
+      <mnc>490</mnc>
+      <codeType>HEX</codeType>
+      <gid>000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</gid>
+      <networkName>VMU</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

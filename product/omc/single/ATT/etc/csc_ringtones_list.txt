@@ -1,0 +1,3 @@
+/product/omc/single/ATT/res/media/audio/ringtones/AT&T City Lights.ogg
+/product/omc/single/ATT/res/media/audio/ringtones/AT&T Firefly.ogg
+/product/omc/single/ATT/res/media/audio/ringtones/AT&T Now or Never.ogg

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <CustomizedText>
+    <Rule>
+      <source>4G</source>
+      <target>4G LTE</target>
+    </Rule>
+    <Rule>
+      <source>device</source>
+      <target>phone</target>
+    </Rule>
+    <Rule>
+      <source>Device</source>
+      <target>Phone</target>
+    </Rule>
+    <Rule>
+      <source>devices</source>
+      <target>phones</target>
+    </Rule>
+    <Rule>
+      <source>Devices</source>
+      <target>Phones</target>
+    </Rule>
+    <Rule>
+      <source>Mobile hotspot</source>
+      <target>Mobile Hotspot</target>
+    </Rule>
+    <Rule>
+      <source>primary contact</source>
+      <target>Emergency contact</target>
+    </Rule>
+    <Rule>
+      <source>Primary contact</source>
+      <target>Emergency contact</target>
+    </Rule>
+    <Rule>
+      <source>primary contacts</source>
+      <target>Emergency contacts</target>
+    </Rule>
+    <Rule>
+      <source>Primary contacts</source>
+      <target>Emergency contacts</target>
+    </Rule>
+    <Rule>
+      <source>Mobile hotspot and tethering</source>
+      <target>Mobile Hotspot and Tethering</target>
+    </Rule>	
+    <Rule>
+      <source>hotspot</source>
+      <target>Hotspot</target>
+    </Rule>
+  </CustomizedText>
+</CustomerData>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0004</CSCEdition>
+    <Country>USA</Country>
+    <CountryISO>US</CountryISO>
+    <Region>NA</Region>
+    <SalesCode>USC</SalesCode>
+    <NbNetworkInfo>52</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311580</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311581</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311582</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311583</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311584</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311585</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311586</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311587</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311588</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311589</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311220</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311221</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311222</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311223</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311224</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311225</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311226</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311227</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311228</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311229</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>USC</NetworkName>
+      <NWID>NW01420</NWID>
+      <ICCID>890158</ICCID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>USC Test</NetworkName>
+      <NWID>NW01421</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>USC Test</NetworkName>
+      <NWID>NW01421</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>262800</MCCMNC>
+      <NetworkName>USC Test</NetworkName>
+      <NWID>NW01421</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310332</MCCMNC>
+      <NetworkName>USC Test</NetworkName>
+      <NWID>NW01421</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311580</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311581</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311582</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311583</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311584</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311585</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311586</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311587</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311588</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311589</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311220</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311221</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311222</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311223</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311224</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311225</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311226</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311227</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311228</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311229</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>USCCDMA</NetworkName>
+      <NWID>NW01860</NWID>
+      <ICCID>890158</ICCID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>USC Test CDMA</NetworkName>
+      <NWID>NW01927</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>USC Test CDMA</NetworkName>
+      <NWID>NW01927</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>262800</MCCMNC>
+      <NetworkName>USC Test CDMA</NetworkName>
+      <NWID>NW01927</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310332</MCCMNC>
+      <NetworkName>USC Test CDMA</NetworkName>
+      <NWID>NW01927</NWID>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <OneSIMLock>none</OneSIMLock>
+      </Security>
+      <Phone>
+        <DefLanguage>automatic</DefLanguage>
+        <DefLanguageNoSIM>english_us</DefLanguageNoSIM>
+        <ContinuousInput>enable</ContinuousInput>
+        <DateTimeFormat>
+          <DateFormat>mmddyyyy</DateFormat>
+          <TimeFormat>12h</TimeFormat>
+          <TimezoneUpdate>on</TimezoneUpdate>
+        </DateTimeFormat>
+      </Phone>
+    </Main>
+    <Contact>
+      <NbPreInstalledContact>2</NbPreInstalledContact>
+      <PreInstalledContact>
+        <TelName>Customer Support</TelName>
+        <TelNum>1-888-944-9400</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>Directory Assistance</TelName>
+        <TelNum>411</TelNum>
+      </PreInstalledContact>
+    </Contact>
+    <Messages>
+      <SMS>
+        <MsgTypeThreshold>
+          <ThresholdValue>1</ThresholdValue>
+        </MsgTypeThreshold>
+        <MaxRecipient>20</MaxRecipient>
+        <CharSupport>automatic</CharSupport>
+        <DeleteOldMessage>on</DeleteOldMessage>
+        <DeleteOldMessageCntMms>200</DeleteOldMessageCntMms>
+      </SMS>
+      <MMS>
+        <MMSVersion>1.2</MMSVersion>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>1m</MessageSize>
+          <MaxRecipientMMS>20</MaxRecipientMMS>
+        </MmsSending>
+        <MmsReceiving>
+          <Home>auto</Home>
+          <Roaming>auto</Roaming>
+        </MmsReceiving>
+        <NbMMSView>1</NbMMSView>
+        <MMSView>
+          <MessageUserAgent>SAMSUNG-ANDROID-MMS/1.2.0</MessageUserAgent>
+          <MessageUaProfUrl>http://wap.samsungmobile.com/uaprof/SAMSUNGUAPROFA.xml</MessageUaProfUrl>
+        </MMSView>
+      </MMS>
+    </Messages>
+    <GPS>
+      <GPSActivation>on</GPSActivation>
+    </GPS>
+    <ActiveSync>
+      <Signature>Sent from my  U.S.Cellular© Smartphone</Signature>
+    </ActiveSync>
+    <Browser>
+      <NbBookmark>2</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <Index>1</Index>
+        <BookmarkName>U.S. Cellular</BookmarkName>
+        <URL>https://uscellular.com/mobileportal</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <Index>2</Index>
+        <BookmarkName>Galaxy Shop</BookmarkName>
+        <URL>https://www.samsung.com/us/mobile/phones/all-phones/?cid=us_ow_app_s-internet_none_none_bookmark_bookmark_202008_none</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/uscellular</URL>
+      </eManual>
+    </Browser>
+    <Connections>
+      <NbProfileHandle>4</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>2</NbNetProfile>
+        <NetworkName>USC</NetworkName>
+        <ProfBrowser>LTE INTERNET</ProfBrowser>
+        <ProfMMS>LTE INTERNET</ProfMMS>
+        <ProfAGPS>LTE INTERNET</ProfAGPS>
+        <ProfIntSharing>LTE INTERNET</ProfIntSharing>
+        <ProfIMS>LTE IMS</ProfIMS>
+        <ProfFOTA>LTE INTERNET</ProfFOTA>
+        <ProfIA>LTE INTERNET</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>2</NbNetProfile>
+        <NetworkName>USC Test</NetworkName>
+        <ProfBrowser>LTE - Test Internet</ProfBrowser>
+        <ProfIntSharing>LTE - Test Internet</ProfIntSharing>
+        <ProfIMS>LTE - Test IMS</ProfIMS>
+        <ProfIA>LTE - Test Internet</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>USCCDMA</NetworkName>
+        <ProfBrowser>USC CDMA</ProfBrowser>
+        <ProfMMS>USC CDMA</ProfMMS>
+        <ProfActiveSync>USC CDMA</ProfActiveSync>
+        <ProfIntSharing>USC CDMA</ProfIntSharing>
+        <ProfIMS>USC CDMA</ProfIMS>
+        <ProfFOTA>USC CDMA</ProfFOTA>
+        <ProfCBS>USC CDMA</ProfCBS>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>USC Test CDMA</NetworkName>
+        <ProfBrowser>USC Test CDMA</ProfBrowser>
+        <ProfMMS>USC Test CDMA</ProfMMS>
+        <ProfActiveSync>USC Test CDMA</ProfActiveSync>
+        <ProfIntSharing>USC Test CDMA</ProfIntSharing>
+        <ProfIMS>USC Test CDMA</ProfIMS>
+        <ProfFOTA>USC Test CDMA</ProfFOTA>
+        <ProfCBS>USC Test CDMA</ProfCBS>
+      </ProfileHandle>
+      <NbProfile>6</NbProfile>
+      <Profile>
+        <NetworkName>USC</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4v6</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <Selectable>yes</Selectable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>LTE INTERNET</ProfileName>
+        <URL>http://mmsc1.uscc.net/mmsc/MMS</URL>
+        <Auth>none</Auth>
+        <Bearer>ps</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <ModemCognitive>true</ModemCognitive>
+        <PSparam>
+          <APN>usccinternet</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>USC Test</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4v6</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <Selectable>yes</Selectable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>LTE - Test Internet</ProfileName>
+        <Auth>none</Auth>
+        <Bearer>ps</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <ModemCognitive>true</ModemCognitive>
+        <PSparam>
+          <APN>usccinternet</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>USC</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4v6</RoamingIpVersion>
+        <Editable>no</Editable>
+        <Selectable>yes</Selectable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>LTE IMS</ProfileName>
+        <Auth>none</Auth>
+        <Bearer>ps</Bearer>
+        <MTUSize>1422</MTUSize>
+        <ModemCognitive>true</ModemCognitive>
+        <PSparam>
+          <APN>ims</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>USC Test</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4v6</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <Selectable>yes</Selectable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>LTE - Test IMS</ProfileName>
+        <Auth>none</Auth>
+        <Bearer>ps</Bearer>
+        <MTUSize>1422</MTUSize>
+        <ModemCognitive>true</ModemCognitive>
+        <PSparam>
+          <APN>ims</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>USCCDMA</NetworkName>
+        <Editable>no</Editable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>USC CDMA</ProfileName>
+        <URL>http://mmsc1.uscc.net/mmsc/MMS</URL>
+        <Bearer>cs</Bearer>
+        <PSparam>
+          <APN>cdma</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>USC Test CDMA</NetworkName>
+        <Editable>no</Editable>
+        <EnableStatus>enable</EnableStatus>
+        <ProfileName>USC Test CDMA</ProfileName>
+        <URL>http://mmsc1.uscc.net/mmsc/MMS</URL>
+        <Bearer>cs</Bearer>
+        <PSparam>
+          <APN>cdma</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+    <IMSSetting>
+      <NbSetting>2</NbSetting>
+      <Setting>
+        <NetworkName>USC</NetworkName>
+        <Version>3.0</Version>
+        <EnableIMS>true</EnableIMS>
+        <VoLTE>
+          <EnableVoLTE>true</EnableVoLTE>
+          <EnableVoiceoverWIFI>false</EnableVoiceoverWIFI>
+          <EnableVideocall>false</EnableVideocall>
+          <EnableVoLTEindicator>false</EnableVoLTEindicator>
+          <Voice_Domain_Preference_EUTRAN>csvoiceonly</Voice_Domain_Preference_EUTRAN>
+          <Emregencycall_Domain>ps</Emregencycall_Domain>
+          <SS_PS_Control_Preference>xcap</SS_PS_Control_Preference>
+          <USSD_Domain_Preference>cs</USSD_Domain_Preference>
+          <EnableSMSoverIP>true</EnableSMSoverIP>
+        </VoLTE>
+        <RCS>
+          <EnableRCS>true</EnableRCS>
+          <EnableRCSchat>true</EnableRCSchat>
+        </RCS>
+      </Setting>
+      <Setting>
+        <NetworkName>USC Test</NetworkName>
+        <Version>3.0</Version>
+        <EnableIMS>true</EnableIMS>
+        <VoLTE>
+          <EnableVoLTE>true</EnableVoLTE>
+          <EnableVoiceoverWIFI>false</EnableVoiceoverWIFI>
+          <EnableVideocall>false</EnableVideocall>
+          <EnableVoLTEindicator>false</EnableVoLTEindicator>
+          <Voice_Domain_Preference_EUTRAN>csvoiceonly</Voice_Domain_Preference_EUTRAN>
+          <Emregencycall_Domain>ps</Emregencycall_Domain>
+          <SS_PS_Control_Preference>xcap</SS_PS_Control_Preference>
+          <USSD_Domain_Preference>cs</USSD_Domain_Preference>
+          <EnableSMSoverIP>true</EnableSMSoverIP>
+        </VoLTE>
+      </Setting>
+    </IMSSetting>
+  </Settings>
+</CustomerData>

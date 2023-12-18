@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0006</CSCEdition>
+    <Country>USA</Country>
+    <CountryISO>US</CountryISO>
+    <Region>NA</Region>
+    <SalesCode>CHA</SalesCode>
+    <NbNetworkInfo>6</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311480</MCCMNC>
+      <NetworkName>CHA</NetworkName>
+      <NWID>NW01605</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BA01490000000000</SubsetCode>
+      <GID2>A700000000000000</GID2>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>CHA</NetworkName>
+      <NWID>NW01605</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BA01490000000000</SubsetCode>
+      <GID2>A700000000000000</GID2>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>CHA TEST</NetworkName>
+      <NWID>NW01606</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311480</MCCMNC>
+      <NetworkName>CHACDMA</NetworkName>
+      <NWID>NW01845</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BA01490000000000</SubsetCode>
+      <GID2>A700000000000000</GID2>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>CHACDMA</NetworkName>
+      <NWID>NW01845</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BA01490000000000</SubsetCode>
+      <GID2>A700000000000000</GID2>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>CHACDMA</NetworkName>
+      <NWID>NW01845</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <UnlockCnt>254</UnlockCnt>
+        <OneSIMLock>none</OneSIMLock>
+        <NbNetworkLock>3</NbNetworkLock>
+        <NetworkLock>311480</NetworkLock>
+        <NetworkLock>20404</NetworkLock>
+        <NetworkLock>00101</NetworkLock>
+      </Security>
+      <Phone>
+        <DefLanguage>automatic</DefLanguage>
+        <DefLanguageNoSIM>english_us</DefLanguageNoSIM>
+        <ContinuousInput>enable</ContinuousInput>
+        <BackLightTime>1min</BackLightTime>
+        <DateTimeFormat>
+          <DateFormat>mmddyyyy</DateFormat>
+          <TimeFormat>12h</TimeFormat>
+          <TimezoneUpdate>on</TimezoneUpdate>
+        </DateTimeFormat>
+      </Phone>
+      <Sound>
+        <NbMessageTone>1</NbMessageTone>
+        <MessageTone src="/Customer/CHA/Messagetone/One Drop.ogg">
+          <Position>1</Position>
+          <FileType>OGG</FileType>
+        </MessageTone>
+      </Sound>
+    </Main>
+    <Contact>
+      <NbPreInstalledContact>2</NbPreInstalledContact>
+      <PreInstalledContact>
+        <TelName>Customer Care</TelName>
+        <TelNum>611</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>Voice Mail</TelName>
+        <TelNum>*86</TelNum>
+      </PreInstalledContact>
+    </Contact>
+    <Messages>
+      <SMS>
+        <MsgTypeThreshold>
+          <ThresholdValue>7</ThresholdValue>
+        </MsgTypeThreshold>
+        <MaxRecipient>20</MaxRecipient>
+        <EmailGateway>N/A</EmailGateway>
+      </SMS>
+      <MMS>
+        <GroupMessaging>on</GroupMessaging>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <MessageSize>1.2m</MessageSize>
+          <ImageResizeResolution>qsxga</ImageResizeResolution>
+          <MaxRecipientMMS>20</MaxRecipientMMS>
+        </MmsSending>
+        <NbMMSView>1</NbMMSView>
+        <MMSView>
+          <MessageUserAgent>odsama205u</MessageUserAgent>
+          <MessageUaProfUrl>http://uaprof.vtext.com/sam/odsama205u/odsama205u.xml</MessageUaProfUrl>
+        </MMSView>
+      </MMS>
+    </Messages>
+    <GPS>
+      <GPSActivation>on</GPSActivation>
+    </GPS>
+    <ActiveSync>
+      <SyncSms>off</SyncSms>
+    </ActiveSync>
+    <Browser>
+      <NbBookmark>4</NbBookmark>
+      <Bookmark>
+        <NetworkName>CHA</NetworkName>
+        <Editable>no</Editable>
+        <Index>1</Index>
+        <BookmarkName>Spectrum Mobile Web</BookmarkName>
+        <URL>http://www.spectrum.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>CHA</NetworkName>
+        <Editable>no</Editable>
+        <Index>2</Index>
+        <BookmarkName>Spectrum My Account</BookmarkName>
+        <URL>https://www.spectrum.net/login/?target=https://www.spectrum.net/my-account/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>CHA</NetworkName>
+        <Editable>no</Editable>
+        <Index>3</Index>
+        <BookmarkName>Google</BookmarkName>
+        <URL>http://www.google.com/m?client={CID}&amp;source=android-home</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>CHA</NetworkName>
+        <Editable>yes</Editable>
+        <Index>4</Index>
+        <BookmarkName>Galaxy Shop</BookmarkName>
+        <URL>https://www.samsung.com/us/mobile/phones/all-phones/?cid=us_ow_app_s-internet_none_none_bookmark_bookmark_202008_none</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/cha</URL>
+      </eManual>
+    </Browser>
+    <Connections>
+      <NbProfileHandle>3</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>6</NbNetProfile>
+        <NetworkName>CHA</NetworkName>
+        <ProfBrowser>Spectrum</ProfBrowser>
+        <ProfMMS>Charter MMS</ProfMMS>
+        <ProfIntSharing>Charter Internet DUN</ProfIntSharing>
+        <ProfIMS>Charter IMS</ProfIMS>
+        <ProfFOTA>Charter FOTA</ProfFOTA>
+        <ProfCBS>Charter CBS</ProfCBS>
+        <ProfIA>Charter IMS</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>6</NbNetProfile>
+        <NetworkName>CHA TEST</NetworkName>
+        <ProfBrowser>CHA Test Internet</ProfBrowser>
+        <ProfMMS>CHA Test MMS</ProfMMS>
+        <ProfIntSharing>CHA Test Internet DUN</ProfIntSharing>
+        <ProfIMS>CHA Test IMS</ProfIMS>
+        <ProfFOTA>CHA Test FOTA</ProfFOTA>
+        <ProfCBS>CHA Test CBS</ProfCBS>
+        <ProfIA>CHA Test IMS</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>CHACDMA</NetworkName>
+        <ProfBrowser>Charter CDMA</ProfBrowser>
+        <ProfMMS>Charter CDMA</ProfMMS>
+        <ProfIntSharing>Charter CDMA</ProfIntSharing>
+        <ProfFOTA>Charter CDMA</ProfFOTA>
+        <ProfCBS>Charter CDMA</ProfCBS>
+      </ProfileHandle>
+      <NbProfile>13</NbProfile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Spectrum</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter Internet DUN</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter FOTA</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>3</ProfileId>
+        <PSparam>
+          <APN>VZWADMIN</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv6</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter IMS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>2</ProfileId>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter CBS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter MMS</ProfileName>
+        <URL>http://mms.vzwreseller.com/servlets/mms</URL>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test Internet</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test Internet DUN</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test FOTA</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>3</ProfileId>
+        <PSparam>
+          <APN>VZWADMIN</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv6</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test IMS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>2</ProfileId>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test CBS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHA TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>CHA Test MMS</ProfileName>
+        <URL>http://mms.vzwreseller.com/servlets/mms</URL>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>CHACDMA</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Charter CDMA</ProfileName>
+        <URL>http://mms.vzwreseller.com/servlets/mms</URL>
+        <Bearer>cs</Bearer>
+        <ModemCognitive>false</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>cdma</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+  </Settings>
+</CustomerData>

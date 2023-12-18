@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A205U</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OYN</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A205UOYN</CSCName>
+        <CSCVersion>ECWI1</CSCVersion>
+        <NbCustomer>13</NbCustomer>
+        <CustomerData src="/Customer/ATT/customer.xml" />
+        <CustomerData src="/Customer/BST/customer.xml" />
+        <CustomerData src="/Customer/CHA/customer.xml" />
+        <CustomerData src="/Customer/GCF/customer.xml" />
+        <CustomerData src="/Customer/SPR/customer.xml" />
+        <CustomerData src="/Customer/TMB/customer.xml" />
+        <CustomerData src="/Customer/TMK/customer.xml" />
+        <CustomerData src="/Customer/USC/customer.xml" />
+        <CustomerData src="/Customer/VMU/customer.xml" />
+        <CustomerData src="/Customer/VZW/customer.xml" />
+        <CustomerData src="/Customer/XAA/customer.xml" />
+        <CustomerData src="/Customer/XAS/customer.xml" />
+        <CustomerData src="/Customer/DSH/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATT</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_ATT_PP_0014</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BST</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_BST_RR_0002</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.boost.care" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHA</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_CHA_RR_0012</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+            <Packages>
+                <package name="com.pocketgeek.android" />
+                <package name="com.TWCableTV" />
+                <package name="com.brighthouse.mybhn" />
+                <package name="com.spectrum.Spec_Mobile" />
+                <package name="com.samsung.vvm.se" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>DSH</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_DSH_RR_0002</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.boost.care" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>GCF</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_GCF_PP_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SPR</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_SPR_RR_0005</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sprint.care" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TMB</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_TMB_QQ_0019</Version>
+            <CustomerEdition>ED0012</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TMK</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_TMK_QQ_0013</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>USC</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_USC_RR_0013</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VMU</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_VMU_RR_0002</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.virgin.care" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>VZW</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_VZW_RR_0012</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XAA</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_XAA_PP_0006</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XAS</CustomerCode>
+            <Version>SAOMC_SM-A205U_OYN_XAS_RR_0002</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

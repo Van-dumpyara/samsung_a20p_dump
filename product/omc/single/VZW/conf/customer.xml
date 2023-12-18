@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0005</CSCEdition>
+    <Country>USA</Country>
+    <CountryISO>US</CountryISO>
+    <Region>NA</Region>
+    <SalesCode>VZW</SalesCode>
+    <NbNetworkInfo>28</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311480</MCCMNC>
+      <NetworkName>VZW</NetworkName>
+      <NWID>NW01524</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>VZW</NetworkName>
+      <NWID>NW01524</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311270</MCCMNC>
+      <NetworkName>VZW</NetworkName>
+      <NWID>NW01524</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>312770</MCCMNC>
+      <NetworkName>VZW</NetworkName>
+      <NWID>NW01524</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310004</MCCMNC>
+      <NetworkName>VZW</NetworkName>
+      <NWID>NW01524</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>001010</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>999999</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>99999</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>24681</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>246081</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311028</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>VZW TEST</NetworkName>
+      <NWID>NW01529</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311480</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>20404</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311270</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>312770</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310004</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>BAE0000000000000</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>001010</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>999999</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>99999</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>24681</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>246081</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311028</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>VZWCDMA</NetworkName>
+      <NWID>NW01842</NWID>
+      <CodeType>HEX</CodeType>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <OneSIMLock>none</OneSIMLock>
+      </Security>
+      <Phone>
+        <DefLanguage>automatic</DefLanguage>
+        <DefLanguageNoSIM>english_us</DefLanguageNoSIM>
+        <ContinuousInput>enable</ContinuousInput>
+        <DateTimeFormat>
+          <DateFormat>mmddyyyy</DateFormat>
+          <TimeFormat>12h</TimeFormat>
+          <TimezoneUpdate>on</TimezoneUpdate>
+        </DateTimeFormat>
+      </Phone>
+      <Sound>
+        <NbMessageTone>1</NbMessageTone>
+        <MessageTone src="/Customer/VZW/Messagetone/Verizon Alert.ogg" default="true">
+          <Position>1</Position>
+          <FileType>OGG</FileType>
+        </MessageTone>
+        <NbRingTone>1</NbRingTone>
+        <RingTone src="/Customer/VZW/Ringtone/VZW Airwaves.ogg" default="true">
+          <Position>1</Position>
+          <FileType>OGG</FileType>
+        </RingTone>
+      </Sound>
+    </Main>
+    <Contact>
+      <NbPreInstalledContact>7</NbPreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#DATA - Data Used</TelName>
+        <TelNum>#3282</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#BAL - Check Balance</TelName>
+        <TelNum>#225</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#MIN - Minutes Used</TelName>
+        <TelNum>#646</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#PMT - Make a Payment</TelName>
+        <TelNum>#768</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#UPG - Upgrade Eligibility</TelName>
+        <TelNum>#874</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>#Warranty Center</TelName>
+        <TelNum>866-406-5154</TelNum>
+      </PreInstalledContact>
+      <PreInstalledContact>
+        <TelName>VZ Roadside Assistance</TelName>
+        <TelNum>877-623-7433</TelNum>
+      </PreInstalledContact>
+    </Contact>
+    <Messages>
+      <SMS>
+        <MsgTypeThreshold>
+          <ThresholdValue>7</ThresholdValue>
+        </MsgTypeThreshold>
+        <MaxRecipient>20</MaxRecipient>
+        <CharSupport>automatic</CharSupport>
+        <EmailGateway>6245</EmailGateway>
+      </SMS>
+      <MMS>
+        <MMSVersion>1.2</MMSVersion>
+        <GroupMessaging>on</GroupMessaging>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>1.2m</MessageSize>
+          <ImageResizeResolution>qsxga</ImageResizeResolution>
+          <MaxRecipientMMS>20</MaxRecipientMMS>
+        </MmsSending>
+        <MmsReceiving>
+          <Home>auto</Home>
+          <Roaming>auto</Roaming>
+        </MmsReceiving>
+        <NbMMSView>1</NbMMSView>
+        <MMSView>
+          <NetworkName>VZW</NetworkName>
+          <MessageUserAgent>sama205u</MessageUserAgent>
+          <MessageUaProfUrl>http://uaprof.vtext.com/sam/a205u/a205u.xml</MessageUaProfUrl>
+        </MMSView>
+      </MMS>
+    </Messages>
+    <GPS>
+      <GPSActivation>on</GPSActivation>
+    </GPS>
+    <ActiveSync>
+      <SyncSms>off</SyncSms>
+      <Signature>Sent from my Verizon, Samsung Galaxy smartphone</Signature>
+    </ActiveSync>
+    <Browser>
+      <NbBookmark>4</NbBookmark>
+      <Bookmark>
+        <NetworkName>VZW</NetworkName>
+        <Editable>no</Editable>
+        <Index>1</Index>
+        <BookmarkName>Google</BookmarkName>
+        <URL>http://www.google.com/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>VZW</NetworkName>
+        <Editable>no</Editable>
+        <Index>2</Index>
+        <BookmarkName>Mobile Web</BookmarkName>
+        <URL>http://smart.myvzw.com/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>VZW</NetworkName>
+        <Editable>no</Editable>
+        <Index>3</Index>
+        <BookmarkName>Verizon Accessories</BookmarkName>
+        <URL>http://www.verizonwireless.com/accessories/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>VZW</NetworkName>
+        <Editable>yes</Editable>
+        <Index>4</Index>
+        <BookmarkName>Galaxy Shop</BookmarkName>
+        <URL>https://www.samsung.com/us/mobile/phones/all-phones/?cid=us_ow_app_s-internet_none_none_bookmark_bookmark_202008_none</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/verizon</URL>
+      </eManual>
+    </Browser>
+    <NbWifiProfile>2</NbWifiProfile>
+    <WifiProfile>
+      <WifiSSID>VerizonWiFiAccess</WifiSSID>
+      <WifiKeyMgmt>WPA-EAP IEEE8021X</WifiKeyMgmt>
+      <WifiEAPMethod>aka</WifiEAPMethod>
+      <WifiHiddenSSID>0</WifiHiddenSSID>
+    </WifiProfile>
+    <WifiProfile>
+      <WifiSSID>PrivateMobileWiFi</WifiSSID>
+      <WifiKeyMgmt>WPA-EAP IEEE8021X</WifiKeyMgmt>
+      <WifiEAPMethod>aka</WifiEAPMethod>
+      <WifiHiddenSSID>0</WifiHiddenSSID>
+    </WifiProfile>
+    <Connections>
+      <NbProfileHandle>4</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>5</NbNetProfile>
+        <NetworkName>VZW</NetworkName>
+        <ProfBrowser>Verizon Internet</ProfBrowser>
+        <ProfMMS>Verizon CBS</ProfMMS>
+        <ProfIntSharing>Verizon Internet DUN</ProfIntSharing>
+        <ProfIMS>Verizon IMS</ProfIMS>
+        <ProfFOTA>Verizon FOTA</ProfFOTA>
+        <ProfCBS>Verizon CBS</ProfCBS>
+        <ProfIA>Verizon IMS</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>5</NbNetProfile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <ProfBrowser>VZW Roaming Internet</ProfBrowser>
+        <ProfMMS>VZW Roaming CBS</ProfMMS>
+        <ProfIntSharing>VZW Roaming Internet DUN</ProfIntSharing>
+        <ProfIMS>VZW Roaming IMS</ProfIMS>
+        <ProfFOTA>VZW Roaming FOTA</ProfFOTA>
+        <ProfCBS>VZW Roaming CBS</ProfCBS>
+        <ProfIA>VZW Roaming IMS</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>5</NbNetProfile>
+        <NetworkName>VZW TEST</NetworkName>
+        <ProfBrowser>VZW Test Internet</ProfBrowser>
+        <ProfMMS>VZW Test CBS</ProfMMS>
+        <ProfIntSharing>VZW Test Internet DUN</ProfIntSharing>
+        <ProfIMS>VZW Test IMS</ProfIMS>
+        <ProfFOTA>VZW Test FOTA</ProfFOTA>
+        <ProfCBS>VZW Test CBS</ProfCBS>
+        <ProfIA>VZW Test IMS</ProfIA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>VZWCDMA</NetworkName>
+        <ProfBrowser>Verizon CDMA</ProfBrowser>
+        <ProfMMS>Verizon CDMA</ProfMMS>
+        <ProfIntSharing>Verizon CDMA</ProfIntSharing>
+        <ProfFOTA>Verizon CDMA</ProfFOTA>
+        <ProfCBS>Verizon CDMA</ProfCBS>
+      </ProfileHandle>
+      <NbProfile>16</NbProfile>
+      <Profile>
+        <NetworkName>VZW</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Verizon Internet</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Verizon Internet DUN</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Verizon FOTA</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>3</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWADMIN</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv6</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Verizon IMS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>2</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>Verizon CBS</ProfileName>
+        <URL>http://mms.vtext.com/servlets/mms</URL>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>VZW Roaming Internet</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>VZW Roaming Internet DUN</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>VZW Roaming FOTA</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>3</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWADMIN</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv6</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>VZW Roaming IMS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>2</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW ROAMING</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>no</Editable>
+        <ProfileName>VZW Roaming CBS</ProfileName>
+        <URL>http://mms.vtext.com/servlets/mms</URL>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>VZW Test Internet</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>VZW Test Internet DUN</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWINTERNET</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>VZW Test FOTA</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>3</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWADMIN</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv6</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>VZW Test IMS</ProfileName>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>2</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>IMS</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZW TEST</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4</RoamingIpVersion>
+        <Editable>yes</Editable>
+        <ProfileName>VZW Test CBS</ProfileName>
+        <URL>http://mms.vtext.com/servlets/mms</URL>
+        <Bearer>2g,3g,ehrpd,lte,iwlan</Bearer>
+        <ModemCognitive>true</ModemCognitive>
+        <ProfileId>4</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>VZWAPP</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>VZWCDMA</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Verizon CDMA</ProfileName>
+        <URL>http://mms.vtext.com/servlets/mms</URL>
+        <Bearer>cs</Bearer>
+        <ModemCognitive>false</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <Skip464XLAT>enable</Skip464XLAT>
+        <PSparam>
+          <APN>cdma</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+  </Settings>
+</CustomerData>

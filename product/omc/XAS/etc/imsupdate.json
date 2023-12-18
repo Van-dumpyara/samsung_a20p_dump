@@ -1,0 +1,35 @@
+{
+  "update_version": 2,
+  "min_swver": "",
+  "note": "RCS A2P",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "Sprint RCS",
+        "mnoname": "Sprint_US",
+        "network": [
+          {
+            "type": "lte,ehrpd,hspa,umts,gsm,wifi,evdo_0,evdo_a,1xrtt",
+            "services": [
+              "im",
+              "ft_http",
+              "options",
+              "euc",
+              "gls",
+              "chatbot-communication"
+            ],
+            "enabled": true
+          }
+        ]
+      }
+    ]
+  },
+  "globalsettings_update": {
+    "globalsetting": [
+      {
+        "mnoname": "Sprint_US",
+        "rcs_support_chatbot_service" : true
+      }
+    ]
+  }
+}

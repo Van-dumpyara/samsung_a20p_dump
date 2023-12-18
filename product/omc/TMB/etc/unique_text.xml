@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <CustomizedText>
+    <Rule>
+      <source>Mobile hotspot</source>
+      <target>Mobile HotSpot</target>
+    </Rule>
+    <Rule>
+      <source>Mobile hotspot and tethering</source>
+      <target>Mobile HotSpot and Tethering</target>
+    </Rule>	
+    <Rule>
+      <source>hotspot</source>
+      <target>HotSpot</target>
+    </Rule>
+    <Rule>
+      <source>Mobile Hotspot</source>
+      <target>Mobile HotSpot</target>
+    </Rule>
+    <Rule>
+      <source>tethering or Mobile Hotspot</source>
+      <target>tethering or Mobile HotSpot</target>
+    </Rule>
+    <Rule>
+        <source>Mobile Hotspot und Tethering</source>
+        <target>Mobile HotSpot und Tethering</target>
+    </Rule>
+    <Rule>
+        <source>Anclaje a red y Zona portátil</source>
+        <target>Anclaje a red y Mobile HotSpot</target>
+    </Rule>    
+  </CustomizedText>
+</CustomerData>

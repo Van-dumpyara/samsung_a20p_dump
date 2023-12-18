@@ -1,0 +1,43 @@
+{
+  "update_version": 3,
+  "min_swver": "",
+  "note": "Overwriting EVS codec for A20U, Enable STIR/SHAKEN",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "VZW VoLTE",
+        "mnoname": "VZW_US",
+        "enable_verstat": true,
+        "enable_evs_codec": false
+      },
+      {
+        "name": "VzW E911",
+        "mnoname": "VZW_US",
+        "enable_verstat": true,
+        "enable_evs_codec": false
+      },
+      {
+        "name": "TFV VoLTE",
+        "mnoname": "VZW_US:TFN",
+        "enable_evs_codec": false
+      },
+      {
+        "name": "TFV E911",
+        "mnoname": "VZW_US:TFN",
+        "enable_evs_codec": false
+      },
+      {
+        "name": "VZW GC VoLTE",
+        "mnoname": "VZW_US:GoogleGC",
+        "enable_verstat": true,
+        "enable_evs_codec": false
+      },
+      {
+        "name": "VzW GC E911",
+        "mnoname": "VZW_US:GoogleGC",
+        "enable_verstat": true,
+        "enable_evs_codec": false
+      }
+    ]
+  }
+}

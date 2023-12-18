@@ -1,0 +1,10 @@
+{
+  "mnomap_update": {
+    "remove_mnomap": [
+      {"mccmnc": "310240", "subset": "", "gid1": "6230", "gid2": "", "spname": "", "mnoname": "TMobile_US:DSH@BLOCKGC"}
+    ],
+    "add_mnomap": [
+      {"mccmnc": "310240", "subset": "", "gid1": "6230", "gid2": "", "spname": "", "mnoname": "TMobile_US:PreDSH@BLOCKGC"}
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0003</CSCEdition>
+    <Country>USA</Country>
+    <CountryISO>US</CountryISO>
+    <Region>NA</Region>
+    <SalesCode>SPR</SalesCode>
+    <NbNetworkInfo>17</NbNetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310120</MCCMNC>
+      <NetworkName>SPR</NetworkName>
+      <NWID>NW01159</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>000001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310120</MCCMNC>
+      <NetworkName>SPR Roaming</NetworkName>
+      <NWID>NW01668</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>000001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310120</MCCMNC>
+      <NetworkName>SPR NONGID</NetworkName>
+      <NWID>NW01895</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>312530</MCCMNC>
+      <NetworkName>SPR NONGID</NetworkName>
+      <NWID>NW01895</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>SPR</NetworkName>
+      <NWID>NW01159</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>SPR</NetworkName>
+      <NWID>NW01159</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310332</MCCMNC>
+      <NetworkName>SPR</NetworkName>
+      <NWID>NW01159</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311328</MCCMNC>
+      <NetworkName>SPR</NetworkName>
+      <NWID>NW01159</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>SPR Test</NetworkName>
+      <NWID>NW01160</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>001010</MCCMNC>
+      <NetworkName>SPR Test</NetworkName>
+      <NWID>NW01160</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310120</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+      <CodeType>HEX</CodeType>
+      <SubsetCode>000001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</SubsetCode>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310028</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311390</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>310332</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>311328</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>00101</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+    <NetworkInfo>
+      <MCCMNC>001010</MCCMNC>
+      <NetworkName>SPRCDMA</NetworkName>
+      <NWID>NW01951</NWID>
+    </NetworkInfo>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Security>
+        <OneSIMLock>none</OneSIMLock>
+      </Security>
+      <Phone>
+        <DefLanguage>automatic</DefLanguage>
+        <DefLanguageNoSIM>english_us</DefLanguageNoSIM>
+        <ContinuousInput>enable</ContinuousInput>
+        <DateTimeFormat>
+          <DateFormat>mmddyyyy</DateFormat>
+          <TimeFormat>12h</TimeFormat>
+          <TimezoneUpdate>on</TimezoneUpdate>
+        </DateTimeFormat>
+      </Phone>
+    </Main>
+    <Messages>
+      <SMS>
+        <MsgTypeThreshold>
+          <ThresholdValue>6</ThresholdValue>
+          <ThresholdType>pagecount</ThresholdType>
+        </MsgTypeThreshold>
+        <MaxRecipient>40</MaxRecipient>
+        <CharSupport>automatic</CharSupport>
+        <EmailGateway>6245</EmailGateway>
+        <PreviewMessage>on</PreviewMessage>
+      </SMS>
+      <MMS>
+        <MMSVersion>1.2</MMSVersion>
+        <GroupMessaging>on</GroupMessaging>
+        <MmsSending>
+          <ReqDeliveryRep>off</ReqDeliveryRep>
+          <ReqReadRep>off</ReqReadRep>
+          <MessageSize>2m</MessageSize>
+          <ImageResizeResolution>uxga</ImageResizeResolution>
+          <MaxRecipientMMS>40</MaxRecipientMMS>
+        </MmsSending>
+        <NbMMSView>1</NbMMSView>
+        <MMSView>
+          <NetworkName>SPR</NetworkName>
+          <MessageUserAgent>SAMSUNG-ANDROID-MMS/uaprof</MessageUserAgent>
+          <MessageUaProfUrl>http://wap.samsungmobile.com/uaprof/uaprof.rdf</MessageUaProfUrl>
+        </MMSView>
+      </MMS>
+      <Email>
+        <EmailReceiving>
+          <PollTime>1h</PollTime>
+        </EmailReceiving>
+      </Email>
+    </Messages>
+    <GPS>
+      <GPSActivation>on</GPSActivation>
+    </GPS>
+    <ActiveSync>
+      <SyncSms>off</SyncSms>
+      <EasEmail>
+        <SizeEmail>10k</SizeEmail>
+      </EasEmail>
+    </ActiveSync>
+    <Browser>
+      <NbBookmark>10</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>SprintWEB</BookmarkName>
+        <URL>https://vision.sprintpcs.com/home</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Google</BookmarkName>
+        <URL>http://www.google.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Google Photos</BookmarkName>
+        <URL>https://photos.google.com/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Facebook</BookmarkName>
+        <URL>http://m.facebook.com/?sprint</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>eBay</BookmarkName>
+        <URL>http://www.ebay.com/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>CNN</BookmarkName>
+        <URL>http://cnn.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>ESPN</BookmarkName>
+        <URL>http://m.espn.go.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Weather Channel</BookmarkName>
+        <URL>http://m.weather.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>BBC</BookmarkName>
+        <URL>http://www.bbc.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>yes</Editable>
+        <BookmarkName>Galaxy Shop</BookmarkName>
+        <URL>https://www.samsung.com/us/mobile/phones/all-phones/?cid=us_owned_app_s-internet_none_none_bookmark_bookmark_202008_none</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/sprint</URL>
+      </eManual>
+    </Browser>
+    <Wifi>
+      <NbHs20Profile>2</NbHs20Profile>
+      <Hs20Profile>
+        <FullyQualifiedDomainName>wlan.mnc120.mcc310.3gppnetwork.org</FullyQualifiedDomainName>
+        <Realm>wlan.mnc120.mcc310.3gppnetwork.org</Realm>
+        <Eap>AKA</Eap>
+        <Imsi>?</Imsi>
+      </Hs20Profile>
+      <Hs20Profile>
+        <FullyQualifiedDomainName>wlan.mnc530.mcc312.3gppnetwork.org</FullyQualifiedDomainName>
+        <Realm>wlan.mnc530.mcc312.3gppnetwork.org</Realm>
+        <Eap>AKA</Eap>
+        <Imsi>?</Imsi>
+      </Hs20Profile>
+    </Wifi>
+    <Connections>
+      <NbProfileHandle>4</NbProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>4</NbNetProfile>
+        <NetworkName>SPR</NetworkName>
+        <ProfBrowser>SPR Internet</ProfBrowser>
+        <ProfMMS>SPR Internet</ProfMMS>
+        <ProfIntSharing>SPR DUN</ProfIntSharing>
+        <ProfIMS>SPR IMS</ProfIMS>
+        <ProfFOTA>SPR OTA</ProfFOTA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>SPR Roaming</NetworkName>
+        <ProfBrowser>SPR Roaming Internet</ProfBrowser>
+        <ProfMMS>SPR Roaming Internet</ProfMMS>
+        <ProfIntSharing>SPR Roaming Internet</ProfIntSharing>
+        <ProfFOTA>SPR Roaming Internet</ProfFOTA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>3</NbNetProfile>
+        <NetworkName>SPR Test</NetworkName>
+        <ProfBrowser>SPR Test Internet</ProfBrowser>
+        <ProfMMS>SPR Test Internet</ProfMMS>
+        <ProfIntSharing>SPR Test DUN</ProfIntSharing>
+        <ProfFOTA>SPR Test OTA</ProfFOTA>
+      </ProfileHandle>
+      <ProfileHandle>
+        <NbNetProfile>1</NbNetProfile>
+        <NetworkName>SPRCDMA</NetworkName>
+        <ProfBrowser>Sprint CDMA</ProfBrowser>
+        <ProfMMS>Sprint CDMA</ProfMMS>
+        <ProfIntSharing>Sprint CDMA</ProfIntSharing>
+        <ProfFOTA>Sprint CDMA</ProfFOTA>
+      </ProfileHandle>
+      <NbProfile>9</NbProfile>
+      <Profile>
+        <NetworkName>SPR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR Internet</ProfileName>
+        <URL>https://mms.sprintpcs.com</URL>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>oap7.sprintpcs.com</ServAddr>
+          <Port>80</Port>
+        </Proxy>
+        <PSparam>
+          <APN>x.ispsn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR IMS</ProfileName>
+        <Bearer>lte,iwlan</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <PSparam>
+          <APN>ims</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR DUN</ProfileName>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <PSparam>
+          <APN>pamsn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR OTA</ProfileName>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <PSparam>
+          <APN>otasn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR Roaming</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <RoamingIpVersion>ipv4v6</RoamingIpVersion>
+        <RoamingEnableStatus>enable</RoamingEnableStatus>
+        <ProfileName>SPR Roaming Internet</ProfileName>
+        <URL>https://mms.sprintpcs.com</URL>
+        <Bearer>2g,3g</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>oap7.sprintpcs.com</ServAddr>
+          <Port>80</Port>
+        </Proxy>
+        <PSparam>
+          <APN>cinet.spcs</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR Test</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR Test Internet</ProfileName>
+        <URL>https://mms.sprintpcs.com</URL>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <Proxy>
+          <EnableFlag>on</EnableFlag>
+          <ServAddr>68.28.31.7</ServAddr>
+          <Port>80</Port>
+        </Proxy>
+        <PSparam>
+          <APN>n.ispsn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR Test</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR Test DUN</ProfileName>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <PSparam>
+          <APN>pamsn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPR Test</NetworkName>
+        <IpVersion>ipv4v6</IpVersion>
+        <ProfileName>SPR Test OTA</ProfileName>
+        <Bearer>lte,ehrpd</Bearer>
+        <Protocol>http</Protocol>
+        <MTUSize>1422</MTUSize>
+        <PSparam>
+          <APN>otasn</APN>
+        </PSparam>
+      </Profile>
+      <Profile>
+        <NetworkName>SPRCDMA</NetworkName>
+        <Editable>no</Editable>
+        <ProfileName>Sprint CDMA</ProfileName>
+        <URL>https://mms.sprintpcs.com</URL>
+        <Bearer>cs</Bearer>
+        <ModemCognitive>false</ModemCognitive>
+        <ProfileId>0</ProfileId>
+        <PSparam>
+          <APN>cdma</APN>
+        </PSparam>
+      </Profile>
+    </Connections>
+  </Settings>
+</CustomerData>

@@ -1,0 +1,55 @@
+{
+  "update_version": 3,
+  "min_swver": "",
+  "note": "RCS A2P",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "Sprint IMS",
+        "mnoname": "Sprint_US",
+        "evs_bit_rate_send": "5.9-13.2",
+        "evs_bit_rate_receive": "5.9-13.2",
+        "evs_default_bitrate": "13.2",
+        "evs_bandwidth_send": "nb-wb",
+        "evs_bandwidth_receive": "nb-wb",
+        "evs_default_bandwidth": "nb-wb"
+      },
+      {
+        "name": "Sprint E911",
+        "mnoname": "Sprint_US",
+        "evs_bit_rate_send": "5.9-13.2",
+        "evs_bit_rate_receive": "5.9-13.2",
+        "evs_default_bitrate": "13.2",
+        "evs_bandwidth_send": "nb-wb",
+        "evs_bandwidth_receive": "nb-wb",
+        "evs_default_bandwidth": "nb-wb"
+      },
+      {
+        "name": "Sprint RCS",
+        "mnoname": "Sprint_US",
+        "network": [
+          {
+            "type": "lte,ehrpd,hspa,umts,gsm,wifi,evdo_0,evdo_a,1xrtt",
+            "services": [
+              "im",
+              "ft_http",
+              "options",
+              "euc",
+              "gls",
+              "chatbot-communication"
+            ],
+            "enabled": true
+          }
+        ]
+      }
+    ]
+  },
+  "globalsettings_update": {
+    "globalsetting": [
+      {
+        "mnoname": "Sprint_US",
+        "rcs_support_chatbot_service" : true
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<singlesku>
+    <appList>
+        <appInfo>
+             <package>com.sec.android.app.popupcalculator</package>
+        </appInfo>
+        <appInfo>
+            <package>com.samsung.android.app.notes</package>
+        </appInfo>
+        <appInfo>
+            <package>com.samsung.android.app.watchmanager</package>
+        </appInfo>
+        <appInfo>
+            <package>com.samsung.android.app.notes.addons</package>
+        </appInfo>
+        <appInfo>
+            <package>com.samsung.android.oneconnect</package>
+        </appInfo>
+        <appInfo>
+            <package>com.google.android.apps.docs</package>
+        </appInfo>
+        <appInfo>
+            <package>com.google.android.apps.tachyon</package>
+        </appInfo>
+        <appInfo>
+            <package>com.google.android.videos</package>
+        </appInfo>
+        <appInfo>
+            <package>com.google.android.music</package>
+        </appInfo>
+        <appInfo>
+            <package>com.google.android.apps.photos</package>
+        </appInfo>
+        <appInfo>
+             <package>com.spotify.music</package>
+        </appInfo>	
+		<appInfo>
+             <package>com.samsung.android.voc</package>
+        </appInfo>
+        <appInfo>
+            <package>com.samsung.sree</package>
+        </appInfo>
+    </appList>
+</singlesku>
